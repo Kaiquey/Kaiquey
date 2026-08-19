@@ -173,8 +173,10 @@ ___
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="./images">
+<img
+  src="https://komarev.com/ghpvc/?username=Kaiquey&style=flat-square&color=0e75b6&label=Visualizações+do+perfil"
+  alt="Profile views"
+/>
 
 </div>
 
