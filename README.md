@@ -174,7 +174,11 @@ ___
 
 <div align="center">
 
-<img src="./images">
+<img src="./images"><img
+  src="./userstats.svg"
+  alt="GitHub Statistics"
+  width="850"
+/>
 
 </div>
 
