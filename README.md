@@ -35,7 +35,7 @@ Estou construindo minha carreira com foco em desenvolvimento de software, buscan
 
 Construindo conhecimento hoje para desenvolver soluções melhores amanhã.
 
-</div> ```
+</div>
 
 
 
@@ -78,120 +78,6 @@ Minha carreira está sendo construída de forma progressiva:
 │        Direção futura        │
 └──────────────────────────────┘
 ```
-
-## Desenvolvimento
-
-## Java
-
-Java é atualmente uma das principais linguagens que estou explorando para construir minha base em desenvolvimento backend.
-
-Meu foco de estudo está envolvendo:
-
-* Programação Orientada a Objetos (POO)
-* Estrutura de Dados
-* Collections
-* Tratamento de exceções
-* Manipulação de arquivos
-* APIs
-* Persistência de dados
-* Boas práticas de desenvolvimento
-
-## C
-
-O estudo de C fez parte da construção dos meus fundamentos na computação e a introdução à lógica de programação, pretendo aprofundar para manipular e aprofundar os seguintes conhecimentos:
-
-* Ponteiros
-* Memória e alocação dinâmica
-* Fundamentos de Sistemas
-* Manipulação de dados
-
-## Dados e Banco de Dados
-
-Um dos meus principais interesses é na compreensão de como as aplicações trabalham e como garantir a segurança total dos dados.
-
-Esse estudo será direcionado para:
-
-* SQL
-* Modelagem de Dados
-* Relacionamentos
-* CRUD
-* Normalização
-* Integridade de dados
-* Persistência
-* Consultas
-* Organização e gerenciamento de informações
-
-A ideia é no desenvolvimento de aplicações capazes de **armazenar, processar e utilizar os dados de forma estruturada e eficiente.**
-
-## Automação
-
-Tenho interesse em utilizar a programação para transformar as tarefas manuais e repetitivas em processos automatizados.
-
-A experiência mais recente que pude envolver a programação e essa ideia no corporativo, foi na criação da dependência de dados e concentração em 1 planilha na rede que atualiza as demais informações através do Import, improvisando um banco de dados dinâmico baseado nas informações específicas e seus filtros que são utilizados com as colunas específicas.
-
-Explorando:
-
-* Processamento de arquivos
-* Organização de informações
-* Manipulação de dados
-* Geração de relatórios
-* Validação de informações
-* Integração entre sistemas
-* Processamento em lote
-* Automação de processos
-
-Minha intenção é unir **Programação + dados + processos** para criar soluções úteis para problemas reais
-___
-## Cybersecurity
-
-Cybersecurity faz parte da minha **direção de longo prazo**
-
-Antes de buscar uma especialização na área, quero construir uma compreensão sólida sobre:
-
-```text
-
-┌──────────────────────────────┐
-│          Programação         │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│            Sistemas          │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│             Redes            │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│             Backend          │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│         Banco de dados       │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│          Segurança           │
-└──────────────────────────────┘
-```
-
-Acredito que entender como os sistemas são construídos e como funcionam é de extrema importância e fundamental para compreender como eles podem ser protegidos.
-
-No futuro, pretendo aprofundar conhecimentos em áreas como:
-
-* Secure Coding
-* Application Security
-* Segurança de APIs
-* Segurança de dados
-* Autenticação e autorização
-* Segurança de sistemas
-* DevSecOps
-
 ## Projetos
 
 Este GitHub representa minha evolução prática durante a formação em tecnologia e carreira.
