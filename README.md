@@ -174,11 +174,7 @@ ___
 
 <div align="center">
 
-<img
-  src="./userstats.svg"
-  alt="GitHub Statistics"
-  width="850"
-/>
+![GitHub Statistic](./userstats.svg)
 
 
 </div>
