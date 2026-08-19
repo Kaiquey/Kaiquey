@@ -13,14 +13,16 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - name: checkout
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
         uses: cicirello/user-statistician@v1
         with:
           image-file: userstats.svg
-          custom-title: "GitHub Stats"
+          custom-title: "Atividade no GitHub"
           colors: dark-dimmed
           max-languages: 6
+          locale: pt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
