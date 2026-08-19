@@ -13,7 +13,7 @@
   
 </p>
 </div>
----
+___
 
 ## Sobre mim
 
@@ -24,7 +24,9 @@ Busco construir uma base sólida em programação e computação, entendendo nã
 Tenho interesse em utilizar tecnologia para resolver problemas reais, melhorar processos e criar soluções capazes de organizar, processar e automatizar informações.
 
 No longo prazo, pretendo conectar essa base de desenvolvimento e dados com **Cybersecurity**, aprofundando conhecimentos em segurança de aplicações, sistemas e dados.
----
+
+___
+
 
 ## Meu direcionamento
 
@@ -64,4 +66,12 @@ Minha carreira está sendo construída de forma progressiva:
 │        CYBERSECURITY         │
 │        Direção futura        │
 └──────────────────────────────┘
+```
 
+## Desenvolvimento
+
+#Java
+
+Java é atualmente uma das principais linguagens que estou explorando para construir minha base em desenvolvimento backend.
+
+Meu foco de estudo está envolvendo:
