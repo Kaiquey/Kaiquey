@@ -170,7 +170,7 @@ ___
 **Metodologias**
 * **Scrum Fundamentals Certified** - SCRUMstudy
 
-* ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
