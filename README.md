@@ -32,9 +32,7 @@ ___
 
 Estou construindo minha carreira com foco em desenvolvimento de software, buscando oportunidades que me permitam aplicar e ampliar meus conhecimentos em:
 <div align="center">
-☕ Backend • 🗄️ Dados • ⚙️ Automação • 🔐 Segurança
-
-Construindo conhecimento hoje para desenvolver soluções melhores amanhã.
+#☕ Backend • 🗄️ Dados • ⚙️ Automação • 🔐 Segurança
 
 </div>
 
