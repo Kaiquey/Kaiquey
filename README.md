@@ -1,6 +1,6 @@
 <div align="center">
   
-## Olá, eu sou Kaique Costa
+## Bem vindo(a), ao meu perfil me chamo Kaique Costa
 
 ### Desenvolvedor de Software em formação **Backend * Java * Dados * Automação**
 
@@ -62,7 +62,7 @@ Este GitHub representa minha evolução prática durante a formação em tecnolo
 
 Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvolvidas para colocar em prática os conhecimentos adquiridos.
 
-## Roadmap estruturado separado por área - direcionamento e o que já estou aplicando:
+## Roadmap estruturado separado por área - direcionamento com principais focos:
 
 | Área                 | Direcionamento                            |
 | -------------------- | ----------------------------------------- |
