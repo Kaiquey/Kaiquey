@@ -130,7 +130,7 @@ Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvol
 **Metodologias**
 * **Scrum Fundamentals Certified** - SCRUMstudy
 
-## 📊 GitHub Stats
+## 📊 Status do GitHub
 
 <div align="center">
 
