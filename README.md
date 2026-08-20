@@ -1,5 +1,5 @@
 <div align="center">
-## Olá, eu sou Kaique Costa
+### Olá, eu sou Kaique Costa
 
 ### Desenvolvedor de Software em formação **Backend * Java * Dados * Automação**
 
