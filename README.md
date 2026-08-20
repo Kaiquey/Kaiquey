@@ -19,7 +19,6 @@ ___
 
 ## Foco de Desenvolvimento
 
-Minha carreira está sendo construída de forma progressiva:
 ```text
 ┌──────────────────────────────┐
 │     CIÊNCIA DA COMPUTAÇÃO    │
