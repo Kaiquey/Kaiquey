@@ -1,0 +1,45 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kaique Costa - terminal header</title>
+  <desc id="desc">Banner escuro inspirado em um terminal Linux, com um escudo e um prompt de comando.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#07140F"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="760" y1="38" x2="1028" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#43D17B" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#43D17B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#43D17B" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="12" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="12" fill="url(#grid)"/>
+  <path d="M0 35H1200" stroke="#43D17B" stroke-opacity="0.2"/>
+  <circle cx="26" cy="18" r="5" fill="#FF6B6B"/>
+  <circle cx="46" cy="18" r="5" fill="#F7C948"/>
+  <circle cx="66" cy="18" r="5" fill="#43D17B"/>
+  <text x="95" y="23" fill="#8FA99A" font-family="monospace" font-size="12">kaique@lab: ~/identity</text>
+
+  <g opacity="0.9" filter="url(#glow)">
+    <path d="M778 82L910 35L1042 82V166C1042 236 994 272 910 296C826 272 778 236 778 166V82Z" fill="url(#shield)" stroke="#43D17B" stroke-opacity="0.38" stroke-width="2"/>
+    <path d="M856 125L900 166L856 207" stroke="#43D17B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M923 208H971" stroke="#F7C948" stroke-width="9" stroke-linecap="round"/>
+  </g>
+
+  <g font-family="monospace">
+    <text x="74" y="116" fill="#43D17B" font-size="16">$ whoami</text>
+    <text x="74" y="158" fill="#F3F7F4" font-size="38" font-weight="700">Kaique Costa</text>
+    <text x="74" y="198" fill="#A9C4B3" font-size="17">backend  /  dados  /  automação</text>
+    <text x="74" y="250" fill="#43D17B" font-size="15">$ build --with-curiosity --ship-with-purpose</text>
+    <rect x="74" y="270" width="10" height="19" rx="1" fill="#F7C948"/>
+  </g>
+
+  <path d="M0 319H1200" stroke="#43D17B" stroke-opacity="0.5"/>
+</svg>

@@ -1,81 +1,88 @@
 <div align="center">
-  
-## Bem vindo(a), ao meu perfil me chamo Kaique Costa
 
-### Desenvolvedor de Software em formação **Backend Java *Dados *Automação**
+<img src="./assets/terminal-header.svg" alt="Terminal Linux, com foco em backend, dados e automação do perfil">
+
+### Construo minha base em tecnologia transformando curiosidade em prática.
+
+**Desenvolvimento Backend • Dados • Automação**
 
 <p>
   <a href="https://github.com/Kaiquey">
-     <img src="https://img.shields.io/badge/GitHub-Kaiquey-181717?style=for-the-badge&logo=github&logoColor=white">
+     <img src="https://img.shields.io/badge/GitHub-Kaiquey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Kaique Costa">
   </a>
   <a href="https://br.linkedin.com/in/kaique-costa-40181522a">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Kaique Costa">
   </a>
   
 </p>
 </div>
 
-___
+---
 
-## Foco de Desenvolvimento
+## O que você vai encontrar aqui
+
+Este perfil registra uma construção em andamento: fundamentos bem feitos, projetos que saem do papel e decisões técnicas que fazem sentido para o problema.
+
+Meu ponto de partida é a Ciência da Computação. Hoje, concentro meu desenvolvimento em **Java, backend, SQL e automação**. Gosto de entender o caminho completo de uma solução: como a lógica é pensada, como os dados são organizados e como um processo pode se tornar mais simples e confiável.
+
+Não uso este espaço para parecer pronto. Uso para tornar visível o processo, os aprendizados e a evolução.
+
+## Minha direção
 
 ```text
 ┌──────────────────────────────┐
 │     CIÊNCIA DA COMPUTAÇÃO    │
-│          Fundamentos         │
+│       base para decidir      │
 └───────────────┬──────────────┘
                 │
                 ▼
 ┌──────────────────────────────┐
 │       DESENVOLVIMENTO        │
-│        Java • C • Lógica     │
+│      Java • C • lógica       │
 └───────────────┬──────────────┘
                 │
                 ▼
 ┌──────────────────────────────┐
 │           BACKEND            │
-│        APIs • Sistemas       │
+│        APIs • sistemas       │
 └───────────────┬──────────────┘
                 │
                 ▼
 ┌──────────────────────────────┐
-│       DADOS & DATABASE       │
-│        SQL • Modelagem       │
+│       DADOS & DATABASE        │
+│       SQL • modelagem        │
 └───────────────┬──────────────┘
                 │
                 ▼
 ┌──────────────────────────────┐
 │          AUTOMAÇÃO           │
-│     Processos • Dados        │
+│     processos • dados        │
 └───────────────┬──────────────┘
                 │
                 ▼
 ┌──────────────────────────────┐
 │        CYBERSECURITY         │
-│        Direção futura        │
+│     próxima direção          │
 └──────────────────────────────┘
 ```
-## Projetos
+## Como estou construindo
 
-Este GitHub representa minha evolução prática durante a formação em tecnologia e carreira.
+Cada projeto é um laboratório: começo pelo fundamento, organizo o problema, implemento uma solução e observo o que precisa ser melhorado. Este GitHub reúne projetos acadêmicos, exercícios e experimentos feitos para transformar estudo em repertório prático.
 
-Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvolvidas para colocar em prática os conhecimentos adquiridos.
+| Frente | O que estou praticando |
+| --- | --- |
+| ☕ **Java** | Backend e orientação a objetos |
+| 🔵 **C** | Fundamentos, memória e estruturas de dados |
+| 🗄️ **SQL** | Modelagem, consultas e persistência |
+| 🧠 **Algoritmos** | Lógica e resolução de problemas |
+| 🌐 **Backend** | APIs e sistemas |
+| ⚙️ **Automação** | Processos e gerenciamento de dados |
+| 🔧 **Git/GitHub** | Versionamento e colaboração |
+| 🔐 **Cybersecurity** | Fundamentos para uma próxima etapa |
 
-## Roadmap estruturado separado por área - direcionamento com principais focos:
+## Progresso atual
 
-| Área                 | Direcionamento                            |
-| -------------------- | ----------------------------------------- |
-| ☕ **Java**           | Backend e Programação Orientada a Objetos |
-| 🔵 **C**             | Fundamentos e estruturas de dados         |
-| 🗄️ **SQL**          | Banco de dados e persistência             |
-| 🧠 **Algoritmos**    | Lógica e resolução de problemas           |
-| 🌐 **Backend**       | APIs e sistemas                           |
-| ⚙️ **Automação**     | Processos e gerenciamento de dados        |
-| 🔧 **Git/GitHub**    | Versionamento e colaboração               |
-| 🔐 **Cybersecurity** | Fundamentos e preparação futura           |
-
-
-## Fundamentos
+### Fundamentos
 
 * [x] Técnico em Desenvolvimento de Sistemas
 * [x] Projetos em desenvolvimento
@@ -84,7 +91,7 @@ Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvol
 * [x] Estrutura de Dados
 * [x] Algoritmos
 
-## Backend
+### Backend
 
 * [x] Programação Orientada a Objetos
 * [ ] Aprofundar Java
@@ -93,7 +100,7 @@ Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvol
 * [ ] Arquitetura de aplicações
 * [ ] Testes automatizados
 
-## Dados
+### Dados
 
 * [x] SQL
 * [x] Modelagem de Banco de Dados
@@ -101,7 +108,7 @@ Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvol
 * [ ] Persistência de dados
 * [ ] Integração Backend + Banco de Dados
 
-## Automação
+### Automação
 
 * [ ] Processamento de arquivos
 * [ ] Manipulação de dados
@@ -109,7 +116,7 @@ Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvol
 * [ ] Integração entre sistemas
 * [ ] Processamento em lote
 
-## Segurança
+### Segurança
 
 * [ ] Secure Coding
 * [ ] Segurança de APIs
@@ -129,7 +136,7 @@ Reunindo projetos acadêmicos, exercícios, experimentos e aplicações desenvol
 **Metodologias**
 * **Scrum Fundamentals Certified** - SCRUMstudy
 
-## 📊 Status do GitHub
+## Atividade
 
 <div align="center">
 
