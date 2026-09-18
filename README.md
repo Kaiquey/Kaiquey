@@ -2,7 +2,7 @@
   
 ## Bem vindo(a), ao meu perfil me chamo Kaique Costa
 
-### Desenvolvedor de Software em formação *Backend Java *Dados *Automação**
+### Desenvolvedor de Software em formação **Backend Java *Dados *Automação**
 
 <p>
   <a href="https://github.com/Kaiquey">
